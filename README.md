@@ -39,7 +39,7 @@ oが上下左右0個以上連なっているものを島とする。陸地1つ�
 
 実際の操作方法
 
-`g++ dfs.cpp`  
+`g++ count_number_of_island_by_dfs.cpp`  
 `./a.out`  
 (以下標準入力。数字はマップの行数)  
 5  
